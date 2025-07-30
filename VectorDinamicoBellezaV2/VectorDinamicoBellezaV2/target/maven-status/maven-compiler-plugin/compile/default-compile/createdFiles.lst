@@ -1,0 +1,13 @@
+app\App.class
+view\SalidaParcial.class
+validate\Validar.class
+controller\ControladorBelleza.class
+view\DatoEntrada$1.class
+view\VistaBelleza$1.class
+view\VerVector.class
+model\ModeloBelleza.class
+view\DatoEntrada.class
+view\VistaBelleza.class
+view\VistaBelleza$2.class
+view\SalidaTotal.class
+admonArray\AdministradorArray.class
